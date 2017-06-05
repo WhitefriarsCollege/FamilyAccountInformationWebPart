@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFCWebParts\FamilyAccountInformationWebPart\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFCWebParts\FamilyAccountInformationWebPart\bin\Debug\FamilyAccountInformationWebPart.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFCWebParts\FamilyAccountInformationWebPart\bin\Debug\FamilyAccountInformationWebPart.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFCWebParts\FamilyAccountInformationWebPart\obj\Debug\FamilyAccountInformationWebPart.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\WFCWebParts\FamilyAccountInformationWebPart\obj\Debug\FamilyAccountInformationWebPart.pdb

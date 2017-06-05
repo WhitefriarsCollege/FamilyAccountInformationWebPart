@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <!--
+      The following Guid is used as a reference to the web part class, 
+      and it will be automatically replaced with actual type name at deployment time.
+      -->
+      <type name="1389a2b2-0801-4c1b-952f-9897a0ae5d43" />
+      <importErrorMessage>Cannot import FamilyAccountInformation Web Part.</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">FamilyAccountInformation Web Part</property>
+        <property name="Description" type="string">FamilyAccountInformation Description</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

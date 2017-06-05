@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements Id="1389a2b2-0801-4c1b-952f-9897a0ae5d43" xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="WebParts" List="113" Url="_catalogs/wp">
+    <File Path="FamilyAccountInformation.webpart" Url="FamilyAccountInformation.webpart" Type="GhostableInLibrary" />
+  </Module>
+</Elements>

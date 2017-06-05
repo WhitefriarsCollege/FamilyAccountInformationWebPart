@@ -1,0 +1,9 @@
+﻿<solution id="7d028894-5130-43d8-8a29-db49309e71fd" name="FamilyAccountInformationWebPart">
+  <features>
+    <feature id="7d3458f0-e01d-4329-b993-a36b048200c5">
+      <featureElements>
+        <featureElement id="1389a2b2-0801-4c1b-952f-9897a0ae5d43" name="FamilyAccountInformation" />
+      </featureElements>
+    </feature>
+  </features>
+</solution>

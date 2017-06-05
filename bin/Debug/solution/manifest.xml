@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution SolutionId="7d028894-5130-43d8-8a29-db49309e71fd" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <FeatureManifests>
+    <FeatureManifest Location="FamilyAccountInformation\feature.xml" />
+  </FeatureManifests>
+  <Assemblies>
+    <Assembly Location="FamilyAccountInformationWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="FamilyAccountInformationWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9f4da00116c38ec5" Namespace="FamilyAccountInformationWebPart" TypeName="FamilyAccountInformation" Safe="True" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\FamilyAccountInformationUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\mailPlain.jpg" />
+  </TemplateFiles>
+</Solution>
